@@ -36,7 +36,7 @@ You can perform following steps to install NVM
 
 To run question1 run following commands
 1. npm run serve:question1
-2. npm run question2
+2. npm run question1
 
 
 ## Question2 
